@@ -9,5 +9,6 @@
 7. Don't think someone else will fix something for you. Fix it!
 8. Code format uniformity is a must (per repository)
 9. Be respectful towards other contributors and their artefacts!
-10. **Use common sense**
-11. **Keep this list alive**
+10. Prefer simplicity
+11. **Use common sense**
+12. **Keep this list alive**
